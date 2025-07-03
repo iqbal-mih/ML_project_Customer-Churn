@@ -1,4 +1,3 @@
-# ML_project_Customer-Churn
 # Churn Prediction Analysis
 
 ## Overview
